@@ -1,1 +1,1 @@
-# microigoal
+# microgoal
